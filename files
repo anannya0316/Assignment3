@@ -1,0 +1,4 @@
+f=open("C:\Users\anann\OneDrive\Documents\vit")
+print(f.read(5))
+print(f.write("hi"))
+f=open("C:\Users\anann\OneDrive\Documents\vit","a")
